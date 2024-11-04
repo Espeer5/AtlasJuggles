@@ -1,0 +1,12 @@
+
+Right foot (r_foot):
+position: 0.63195; -0.51698; 0.36966 (w.r.t world)
+
+Right knee (r_uleg):
+position: 0.040076; -0.55197; 0.796 (w.r.t world)
+
+Head (head):
+position: 0.24235; -0.4255; 1.6955
+
+Right elbow (r_uarm):
+position: 0.12572; -0.94822; 1.2922
